@@ -6,4 +6,6 @@ I am an avid reader, and I love learning how to solve problems that require an i
 
 I would describe myself as disciplined, team oriented, and purpose driven. I also enjoy organizing, planning, and optimizing things. I don't make too many moves in life without thorough analysis, and producing deliberate planning products. For example, below is the result of me asking myself "what should I read for professional development."
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp)](https://skillicons.dev)
+
 ![](https://github.com/nebyou-abera/transition/blob/main/csp/machine_learning_pathway.png)
