@@ -8,6 +8,4 @@ I would describe myself as disciplined, team oriented, and purpose driven. I als
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebyou-abera&layout=compact)](https://github.com/nebyou-abera/github-readme-stats)
-
 ![](https://github.com/nebyou-abera/transition/blob/main/csp/machine_learning_pathway.png)
