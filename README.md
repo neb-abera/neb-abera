@@ -6,6 +6,6 @@ If you're a servicemember thinking about programming, but don't know how to prog
 
 If you're a servicemember considering leaving active duty, take a look at [The Military Transition Guide I Wish I Had](https://www.sutori.com/en/story/the-military-transition-guide-i-wish-i-had--neKEiwGvCVS7veAei58G9TUT). 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,python)](https://skillicons.dev)
 
 <!-- ![](https://github.com/nebyou-abera/transition/blob/main/csp/machine_learning_pathway.png) -->
