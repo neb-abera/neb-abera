@@ -1,0 +1,37 @@
+{
+    //"http.proxyStrictSSL": false,
+    "editor.formatOnSave": true,
+    "editor.lightbulb.enabled": true,
+    "editor.parameterHints.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.snippetSuggestions": "none",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "emmet.showExpandedAbbreviation": "never",
+    "files.trimTrailingWhitespace": true,
+    "javascript.suggest.enabled": false,
+    "javascript.validate.enable": false,
+    "eslint.alwaysShowStatus": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.inlineSuggest.enabled": true,
+    "win-ca.inject": "append",
+    "makefile.configurations": [
+        {
+            "name": "MyConfiguration",
+            "problemMatchers": [
+                "$gcc"
+            ],
+            "makeArgs": [
+                "any",
+                "other",
+                "args",
+                "you",
+                "want"
+            ]
+        },
+    ],
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "C_Cpp.intelliSenseEngine": "disabled"
+}
