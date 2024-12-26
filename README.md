@@ -2,7 +2,7 @@ I am a Software Engineer from Chicago. I am an avid reader, and I love learning 
 
 If you're a servicemember thinking about programming, but don't know how to program, here's [Everything I Learned Transitioning From the Army to Software Development](https://github.com/neb-abera/transition)
 
-If you're a servicemember considering leaving active duty, take a look at [The Military Transition Guide I Wish I Had](https://www.sutori.com/en/story/the-military-transition-guide-i-wish-i-had--neKEiwGvCVS7veAei58G9TUT). 
+If you're a servicemember considering leaving active duty, take a look at [The Military Transition Guide I Wish I Had](https://abera.tech/transition). 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,dotnet,python)](https://skillicons.dev)
 
