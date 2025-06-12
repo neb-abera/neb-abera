@@ -1,4 +1,4 @@
-I am a Software Engineer from Chicago. I am an avid reader, and I love learning how to solve problems that require an interdisciplinary approach. If you have any book recommendations please send them my way! I am currently working on projects in C++, Python, and web development (TypeScript/React/HTML/CSS + C# using .NET).
+I am a Software Engineer in Washington D.C. I am an avid reader, and I love learning how to solve problems that require an interdisciplinary approach. If you have any book recommendations please send them my way! I am currently working on projects in C++, Python, and web development (TypeScript/React/HTML/CSS + C# using .NET).
 
 If you're a servicemember thinking about programming, but don't know how to program, here's [Everything I Learned Transitioning From the Army to Software Development](https://github.com/neb-abera/transition)
 
